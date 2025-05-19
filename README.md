@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# TextutilsReact
+# TextUtils
 =======
 # Getting Started with Create React App
 
